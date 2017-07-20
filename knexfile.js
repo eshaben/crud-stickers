@@ -3,7 +3,7 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/stickers'
+    connection: 'postgres://localhost/crud-stickers'
   },
   test: {
     client: 'pg',
