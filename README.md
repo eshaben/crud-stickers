@@ -1,5 +1,8 @@
 # CRUD Stickers
 
+## Description
+Created a Node.js CRUD server for Galvanize Stickers using Express and Knex.js.
+
 ## Setup
 
 ```sh
